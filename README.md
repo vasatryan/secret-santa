@@ -99,7 +99,3 @@ The script includes a 2-second delay between emails to prevent server rate limit
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
